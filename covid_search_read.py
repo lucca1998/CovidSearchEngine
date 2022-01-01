@@ -76,7 +76,6 @@ def read_by_date(filename, Entry):
     return day_list_dates
 
 
-#copied from number_entry.py
 
 class IntEntry(tk.Entry): 
     """An Entry widget that accepts only
