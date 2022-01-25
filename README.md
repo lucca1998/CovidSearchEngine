@@ -1,7 +1,7 @@
 <h2>CovidSearchEngine</h2>
 <p>This engine is a beginner code in Python that I used in my first semester in school.
 
-data.csv is a file given by the European CDC to track cases and deaths in 2020 around the world.
+<b>data.csv<b> is a file given by the European CDC to track cases and deaths in 2020 around the world.
 you can find the same file in <a target="_blank" href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 ">ECDC</a>
 
