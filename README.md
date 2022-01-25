@@ -6,9 +6,9 @@ you can find the same file in <a target="_blank" href="https://www.ecdc.europa.e
 ">ECDC</a>
 
 
-covid_search_read.py reads the csv file and store the data in a list
+<a target="_blank" href="https://github.com/lucca1998/CovidSearchEngine/blob/main/covid_search_read.py">covid_search_read.py</a> reads the csv file and store the data in a list
 
-covid_search_engine.py is the main file, it will import the list from the previous python file and create a window in tkinter where you can type the information you want (like country name or date) and it will be displayed in the new window.
+<a target="_blank" href="https://github.com/lucca1998/CovidSearchEngine/blob/main/covid_search_engine.py">covid_search_engine.py</a> is the main file, it will import the list from the previous python file and create a window in tkinter where you can type the information you want (like country name or date) and it will be displayed in the new window.
 </p>
 
 <h3>You will need to intall these programs and libraries to run the program</h3>
